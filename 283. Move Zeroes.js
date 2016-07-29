@@ -19,7 +19,7 @@
         }
        
     }
-    /*另一种思路
+    /*鍙︿竴绉嶆�濊矾
 	var count=0;
     for(var i=0;i<nums.length;i++){
         if(nums[i]===0){

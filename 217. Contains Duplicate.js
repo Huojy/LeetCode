@@ -22,7 +22,7 @@
          i++;
      }
      return false;
-	/*forÑ­»·±éÀú³¬Ê±
+	/*forå¾ªç¯éå†è¶…æ—¶
 	var arr=[];
     for(var i=0;i<nums.length;i++){
         for(var j=0;j<nums.length;j++){
